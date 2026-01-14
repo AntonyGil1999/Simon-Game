@@ -1,0 +1,14 @@
+# PlatformIO build files
+.pio/
+
+# VS Code settings (local only)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+*~
+*.swp
+*.bak
