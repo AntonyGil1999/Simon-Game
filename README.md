@@ -71,14 +71,7 @@ This project demonstrates the following Embedded System concepts:
 
 ### Hardware Configuration
 
-Based on `main.cpp` and `Wokwi System Diagram`:
-
-Component            Pin(s) on Arduino      Type
-LEDs                "10, 11, 12, 13"        Digital Output
-Buttons               "0, 1, 2, 3"          Digital Input
-"LCD (RS, EN)"           "8, 9"             Digital Output
-LCD (Data D4-D7)      "4, 5, 6, 7"          Digital Output
-Potentiometer             "A0"              Analog Input
+Look Project Report
 
 ## 💻 Usage
 
